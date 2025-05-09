@@ -2,7 +2,11 @@ const images = [
   'images/1.png',
   'images/2.png',
   'images/3.png',
-  // Add more image paths as needed
+  'images/4.png',
+  'images/5.png',
+  'images/6.png',
+  'images/7.png',
+  'images/8.png',
 ];
 
 let index = 0;
